@@ -14,5 +14,13 @@
     "lodash": "^4.17.21",
     "request": "^2.88.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomkeee/persona_blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomkeee/persona_blog/issues"
+  },
+  "homepage": "https://github.com/tomkeee/persona_blog#readme",
   "description": ""
 }
